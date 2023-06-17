@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
   *main - entry point
-  *description: "nothing to type"
-  *return: always 0
+  *Description: "nothing to type"
+  *Return: always 0
   */
 int main(void)
 {
