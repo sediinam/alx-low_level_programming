@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
   *main - entry point
-  *description: "new desc"
-  *return: always 0
+  *Description: "new desc"
+  *Return: always 0
   */
 int main(void)
 {
